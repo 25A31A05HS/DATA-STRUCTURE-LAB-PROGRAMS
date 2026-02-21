@@ -1,0 +1,26 @@
+Program:
+
+#include <iostream>
+
+using namespace std;
+{
+int main()
+
+int a,b;
+
+cout <<"Enter the value of a and b:";
+
+cin>>a>>b;
+
+cout<<" value of a is: "<<a<<" \n value of 
+                  b is: "<<b;
+
+a=a+b;
+
+b=a-b;
+
+a = a-b;
+
+cout <<"invalue of a is: "<<a<<"in value of 
+                    b is " << b;
+}
